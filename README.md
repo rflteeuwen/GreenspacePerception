@@ -1,4 +1,4 @@
-# ChildsPlayAccessibility
+# GreenspacePerception
 
 These notebooks allow to ...
 
@@ -9,7 +9,7 @@ These notebooks were used in complementation with:
 - follow-up qualitative analysis performed in Atlas TI. The qualitative deductive codebook is added to this repository as an .xlsx file.
 
 
-## Using ChildsPlayAccessibility?
+## Using GreenspacePerception?
 
 If you use GreenspacePerception in your work, please cite the journal paper.
 
