@@ -1,6 +1,6 @@
 # GreenspacePerception
 
-These notebooks allow to collect spatial data, specifically NDVI, OpenStreetMap and Google Street View metadata, and conduct the quantitative analysis to research how well NDVI and OpenStreetMap data capture what people visually perceive as being urban greenspaces. These notebooks were used in complementation by data collection through a crowdsourcing questionnaire to collect people's perceptions of places presented in Google Street View imagery. The quantitative analysis was followed up by a qualitative analysis, of which the codebook is added to this repository as well as an .xlsx file. 
+These notebooks allow to collect spatial data, specifically NDVI (#1), OpenStreetMap (#2) and Google Street View metadata (#3); to sample a subset of places (#4) and conduct the quantitative analysis to research how well NDVI and OpenStreetMap data capture what people visually perceive as being urban greenspaces (#5-7). These notebooks were used in complementation by data collection through a crowdsourcing questionnaire to collect people's perceptions of places presented in Google Street View imagery. The quantitative analysis was followed up by a qualitative analysis, of which the codebook is added to this repository as well as an .xlsx file. 
 
 This code was developed for three cities in Europe: Barcelona, Rotterdam, and Gothenburg, but can be adapted to fit other geographical contexts. 
 
