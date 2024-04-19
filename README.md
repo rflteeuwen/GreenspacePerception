@@ -12,7 +12,7 @@ This code was developed for three cities in Europe: Barcelona, Rotterdam, and Go
 
 If you use GreenspacePerception in your work, please cite the journal paper.
 
-**Citation info:** Roos Teeuwen, Vasileios Milias, Alessandro Bozzon, and Achilleas Psyllidis. How well do NDVI and OpenStreetMap data capture people’s visual perceptions of urban greenspace? Landscape and Urban Planning (in press). 2024. https://doi.org/10.1016/j.landurbplan.2024.105009
+**Citation info:** Roos Teeuwen, Vasileios Milias, Alessandro Bozzon, and Achilleas Psyllidis (2024). How well do NDVI and OpenStreetMap data capture people’s visual perceptions of urban greenspace? Landscape and Urban Planning, Volume 245, https://doi.org/10.1016/j.landurbplan.2024.105009
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
