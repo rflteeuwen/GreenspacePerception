@@ -14,6 +14,8 @@ If you use GreenspacePerception in your work, please cite the journal paper.
 
 **Citation info:** Roos Teeuwen, Vasileios Milias, Alessandro Bozzon, and Achilleas Psyllidis (2024). How well do NDVI and OpenStreetMap data capture people’s visual perceptions of urban greenspace? Landscape and Urban Planning, Volume 245, https://doi.org/10.1016/j.landurbplan.2024.105009
 
+Associated input and output datasets, including pseudonimized data on people's perceptions of places, are available at [https://doi.org/10.4121/5c3ad699-5ed4-4e91-8435-fb537e01f325](https://doi.org/10.4121/5c3ad699-5ed4-4e91-8435-fb537e01f325)
+
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
